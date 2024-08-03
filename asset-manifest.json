@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Malaysia-Weather-App/static/css/main.c7ec3132.css",
+    "main.js": "/Malaysia-Weather-App/static/js/main.5aa4b534.js",
+    "index.html": "/Malaysia-Weather-App/index.html",
+    "main.c7ec3132.css.map": "/Malaysia-Weather-App/static/css/main.c7ec3132.css.map",
+    "main.5aa4b534.js.map": "/Malaysia-Weather-App/static/js/main.5aa4b534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.5aa4b534.js"
+  ]
+}
